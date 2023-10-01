@@ -1,4 +1,4 @@
-[1![MasterHead](https://dev.to/documatic/advanced-git-commands-and-workflows-a-comprehensive-guide-for-developers-5865)
+[1![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--yP-GNqJ_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dy2cee9q3ze4hzwj0kjf.png)
 <h1 align="center">Hi 👋, I'm Ritik Singh</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt"coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
