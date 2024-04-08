@@ -1,9 +1,9 @@
 [1![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)
 <h1 align="center">Hi 👋, I'm Ritik Singh</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Full stack Developer.</h3>
 <img align="right" alt"coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently doing **Full stack web developer**
+- 🔭 I’m currently doing **Full stack web development**
 
 - 🌱 I’m currently learning **Data structures and Algoriths**
 
